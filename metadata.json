@@ -1,0 +1,6 @@
+{
+  "name": "Women Safety Alert System",
+  "description": "A robust women's safety and emergency alert system. Allows users to trigger SOS alerts, manage emergency contacts, report safety incidents, and trace alerts on a live tracking dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
